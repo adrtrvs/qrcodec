@@ -60,7 +60,7 @@ header p {
   padding: 8px 15px;
   border-radius: 26px;
   border: none;
-  background-color: #008cba;
+  background-color: #4caf50;
 }
 
 .bcampaign:hover {
@@ -80,7 +80,7 @@ h3 {
 
 /*Menu principal*/
 .menu h2 {
-  background-color: #008cba;
+  background-color: #4caf50;
   text-align: center;
   font-size: 18px;
   margin: 5px;
@@ -106,13 +106,13 @@ ul li {
 /* paragrafos da lista*/
 .details {
   padding: 5px;
-  color: #008cba;
+  color: #4caf50;
   font-family: 'Cuprum', sans-serif;
 }
 
 /*botão clique lista*/
 ._link {
-  background-color: #008cba;
+  background-color: #4caf50;
   border: none;
   padding: 13px 23px;
   border-radius: 26px;
@@ -157,7 +157,7 @@ ul li {
 }
 
 .buttoncampaignaj:hover {
-  background-color: #008cba;
+  background-color: #4caf50;
   transition-duration: 0.4s;
 }
 
@@ -174,7 +174,7 @@ ul li {
   justify-content: space-between;
 }
 .botaocomprov {
-  background-color: #008cba;
+  background-color: #4caf50;
   border: none;
   padding: 13px 23px;
   border-radius: 26px;
